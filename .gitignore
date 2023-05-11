@@ -2,3 +2,5 @@
 .vscode/
 chapter*/swimdata
 __pycache__/
+charts/
+test.txt
