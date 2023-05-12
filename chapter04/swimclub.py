@@ -30,7 +30,7 @@ def read_swim_data(filename):
     mins_secs = int(mins_secs)
     minutes = mins_secs // 60
     seconds = mins_secs - minutes * 60
-    average = f"{minutes}:{seconds}.{hundredths}"  # Your first f-string.
+    average = f"{minutes}:{seconds:0>2}.{hundredths}"  # Your first f-string (which includes formatting).
 
     return swimmer, age, distance, stroke, times, average, converts  # Returned as a tuple.
 
