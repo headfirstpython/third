@@ -1,6 +1,8 @@
 .DS_Store
 .vscode/
 chapter*/swimdata
+chapter*/webapp/swimdata
+chapter*/webapp/__pycache__/
 __pycache__/
 charts/
 test.txt
