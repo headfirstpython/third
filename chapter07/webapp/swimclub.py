@@ -49,9 +49,10 @@ def produce_bar_chart(fn, location=CHARTS):
                     <html>
                         <head>
                             <title>{title}</title>
+                            <link rel="stylesheet" href="/static/webapp.css"/>
                         </head>
                         <body>
-                            <h3>{title}</h3>"""
+                            <h2>{title}</h2>"""
     body = ""
     for n, t in enumerate(times):
         bar_width = hfpy_utils.convert2range(converts[n], 0, from_max, 0, 350)
