@@ -21,7 +21,8 @@ def index():
 @app.get("/swims")
 def display_swim_sessions():
     data = data_utils.get_swim_sessions()
-    dates = [session[0].split(" ")[0] for session in data]  # SQLite3.
+    ## dates = [session[0].split(" ")[0] for session in data]  # SQLite3.
+    dates = [str(session[0].date()) for session in data]  # MySQL/MariaDB.
     return render_template(
         "select.html",
         title="Select a swim session",
