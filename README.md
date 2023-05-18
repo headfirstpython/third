@@ -6,4 +6,4 @@ Unlike the folder structure used in the book, this repository is *organised by c
 
 ### Exploring SQLite data
 
-There are a number of SQLite plugins for VS Code which allow you to view/manipulate your SQLite database files (independently of Python or Jupyter Notebook). That said, we really like the Simon Willison's Datasette tool, which you can `pip install` from PyPI.  Learn more [here](https://pypi.org/project/datasette/).
+There are a number of SQLite plugins for VS Code which allow you to view/manipulate your SQLite database files (independently of Python or Jupyter Notebook). That said, we really like Simon Willison's Datasette tool, which you can `pip install` from PyPI.  Learn more [here](https://pypi.org/project/datasette/).
