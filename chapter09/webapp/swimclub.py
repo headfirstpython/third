@@ -13,7 +13,7 @@ def event_lookup(event):
     
     Given an event descriptor (the name of a swimmer's file), convert
     the descriptor into a lookup key which can be used with the "records"
-    dictionary."
+    dictionary.
     """
     conversions = {
         "Free": "freestyle",
