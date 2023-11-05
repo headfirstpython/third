@@ -4,6 +4,8 @@ The book assumes you have created a folder called `Learning` which contains most
 
 Unlike the folder structure used in the book, this repository is *organised by chapter* to make it easier to find each chapter's files/resources. To ensure the notebooks in the individual chapter folders work, some of the subfolders, source files, and notebooks from `Learning` might be repeated (e.g., `swimdata`, `swimclub.py`, and so on). This shouldn't really be a problem, especially if you are following along with the book and create the required folder structure as you go.  (Hint, hint).
 
+The Everything.zip file contains a compressed archive containing all of the folders/code shown above (should you want a straightforward single-file download option).
+
 ### Exploring SQLite data
 
 There are a number of SQLite plugins for VS Code which allow you to view/manipulate your SQLite database files (independently of Python or Jupyter Notebook). That said, we really like Simon Willison's Datasette tool, which you can `pip install` from PyPI.  Learn more [here](https://pypi.org/project/datasette/).
