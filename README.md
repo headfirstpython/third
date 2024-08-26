@@ -12,4 +12,4 @@ There are a number of SQLite plugins for VS Code which allow you to view/manipul
 
 ### Supplemental Index Material
 
-Please take a look at the CodeIndex.pdf file which includes some supplemental code indexing information.
+Please take a look at the `CodeIndex.pdf` file which includes some supplemental code indexing information.
