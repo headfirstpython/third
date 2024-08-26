@@ -9,3 +9,7 @@ The Everything.zip file contains a compressed archive containing all of the fold
 ### Exploring SQLite data
 
 There are a number of SQLite plugins for VS Code which allow you to view/manipulate your SQLite database files (independently of Python or Jupyter Notebook). That said, we really like Simon Willison's Datasette tool, which you can `pip install` from PyPI.  Learn more [here](https://pypi.org/project/datasette/).
+
+### Supplemental Index Material
+
+Please take a look at the CodeIndex.pdf file which includes some supplemental code indexing information.
