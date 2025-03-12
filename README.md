@@ -1,6 +1,6 @@
 ## third - The support material for the 3rd Edition of Head First Python
 
-If you need help/support, open a new discussion in the Discussions tab (above) as needed. Before doing so, however, be sure to filter on All previous discussions to check that no other reader has raised teh same issue or concern previously. Thanks!
+If you need help/support, open a new discussion in the Discussions tab (above) as needed. Before doing so, however, be sure to filter on All previous discussions to check that no other reader has raised the same or similar issue/concern previously. Thanks!
 
 The book assumes you have created a folder called `Learning` which contains most of the Jupyter Notebooks as we well as assorted `*.py` files used in the book. A few additional subfolders exist within `Learning`, namely `swimdata`, `swimdata2`, `webapp`, and `charts`. If you follow along with the book, you'll end up creating the same (or a very similar) folder structure to this one. 
 
