@@ -8,3 +8,10 @@ chapter*/webapp/templates/*-*
 __pycache__/
 charts/
 test.txt
+.lock
+CACHEDIR.TAG
+pyvenv.cfg
+bin/
+etc/
+lib/
+share/
